@@ -14,6 +14,7 @@ This can be handy, e.g., for creating toy data sets for machine learning.
 * At most 7 classes are possible. These are labeled as `1,2,...,7`. 
 
 Example
+-------
 
 ```matlab
 [X, G] = pointnclick
