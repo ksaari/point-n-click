@@ -1,5 +1,5 @@
-Pointnclick
-==========
+Point 'n click
+==============
 
 Generate 2D points by pointing and clicking with mouse.
 
