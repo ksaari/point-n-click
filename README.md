@@ -1,7 +1,7 @@
 Point 'n click
 ==============
 
-Generate 2D points by pointing and clicking with a mouse.
+Generate 2D points in Matlab by pointing and clicking with a mouse.
 
 Click with the first button of the mouse on the canvas to generate a 
 new point. Press the space bar to change the cluster. Press escape to finish.
